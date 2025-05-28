@@ -1,0 +1,15 @@
+
+# Ambiente Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
