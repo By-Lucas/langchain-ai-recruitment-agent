@@ -26,8 +26,8 @@ ai-recruitment-agent/
 
 ### Linux
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone git@github.com:By-Lucas/langchain-ai-recruitment-agent.git
+cd langchain-ai-recruitment-agent
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 ### Windows
 ```cmd
-git clone <repository-url>
-cd <repository-folder>
+git clone git@github.com:By-Lucas/langchain-ai-recruitment-agent.git
+cd langchain-ai-recruitment-agent
 python -m venv env
 .\env\Scripts\activate
 pip install -r requirements.txt
@@ -71,7 +71,7 @@ Este projeto oferece um agente sofisticado com inteligência artificial, projeta
 ### Linux
 ```bash
 git clone git@github.com:By-Lucas/langchain-ai-recruitment-agent.git
-cd <pasta-do-repositorio>
+cd langchain-ai-recruitment-agent
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
@@ -79,8 +79,8 @@ pip install -r requirements.txt
 
 ### Windows
 ```cmd
-git clone <url-do-repositorio>
-cd <pasta-do-repositorio>
+git clone git@github.com:By-Lucas/langchain-ai-recruitment-agent.git
+cd langchain-ai-recruitment-agent
 python -m venv env
 .\env\Scripts\activate
 pip install -r requirements.txt
